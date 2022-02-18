@@ -26,6 +26,7 @@ namespace NikolayTrofimovUnityVR
             } 
         }
 
+
         private void Start()
         {
             _myTrans = transform;
